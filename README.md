@@ -1,5 +1,8 @@
 # Staking-Neuro
 
+![AI](https://neurosearch.ai/assets/img/github/stak.jpg)
+
+
 NeuroStaking is a mechanism in which investors can lock up their Neuro tokens for a certain period of time in exchange for rewards in the form of additional Neuro tokens. This is similar to depositing money in a savings account, with the difference being that the interest earned is in the form of a cryptocurrency. 
 
 The longer the duration of the staking, the higher the rewards. This incentivizes long-term holding of the Neuro tokens and helps to increase its overall stability and security. To participate in NeuroStaking, investors simply need to hold Neuro tokens in a compatible wallet and opt-in to participate in the staking program. The rewards are automatically credited to the investor's account and can be withdrawn or reinvested as desired.
